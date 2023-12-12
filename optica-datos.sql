@@ -1,1 +1,0 @@
-SELECT * FROM `cul-ampolla-schema`.`periodos-tiempo-ventas`;
